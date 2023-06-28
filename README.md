@@ -14,7 +14,7 @@ I'm highly motivated data scientist with 1+ years of experience in developing ma
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=talha002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=talha002&theme=dark&hide_border=false)
 
-# 📊 Some Data Analysis Example:
+# 📊 Some Data Analysis Examples:
 ## Comparison of the studios' average rating score and the budget allocated per movie
 
 ### Studios with high budget per movie
