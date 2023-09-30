@@ -13,7 +13,7 @@ I'm highly motivated data scientist with 1+ years of experience in developing ma
 # 🤖 My Projects About Data Science & Machine Learning:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=rent_prediction)](https://github.com/talha002/rent_prediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=Baseball-Salary-Prediction)](https://github.com/talha002/Baseball-Salary-Prediction)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=rent_prediction)](https://github.com/talha002/rent_prediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=diabetes_feature_engineering)](https://github.com/talha002/diabetes_feature_engineering)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=Telco-Churn-Rate-Prediction)](https://github.com/talha002/Telco-Churn-Rate-Prediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=diabetes_feature_engineering)](https://github.com/talha002/diabetes_feature_engineering)
 
 # 📊 My Projects About Data Analysis:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=merchant-anlysis)](https://github.com/talha002/merchant-anlysis) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=RULE-BASED-CUSTOMER-SEGMENTATION-PRACTICE)](https://github.com/talha002/RULE-BASED-CUSTOMER-SEGMENTATION-PRACTICE)
