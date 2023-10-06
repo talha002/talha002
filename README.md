@@ -25,11 +25,14 @@ I'm highly motivated data scientist with 1+ years of experience in developing ma
 ### Miuul - Data Science Bootcamp
 4-month Bootcamp including practices on Python Programming for Data Science, Measurement Problems, RecommendationSystems, Feature Engineering, Machine Learning and Querying MS SOL
 
-### Patika - The Path of Data Analysis
-A 12-module training program covers Data Structures, Basic Math, SQL, Advanced Python, Numpy, Data Analysis, Statistics,Pandas, and Data Visualization. Solid foundation for data science.
-
 ### Kodluyoruz - Hi-Kod Data Science Workshop
 3-moth workshop which real life projects have developed on data related fields using by Python software languages andNumpy, Pandas, Sci-kit learn, Seaborn, Matplotlib libraries.
+
+### Veri Bilimi Okulu - AWS Data Engineering Bootcamp
+4-month Bootcamp including practices on AWS services which used in data engineering like EC2, S3, MSK, Kinesis, Glue, Lambda, EMR, MWAA, Redshift, RDS, Athena, Quicksight.
+
+### Patika - The Path of Data Analysis
+A 12-module training program covers Data Structures, Basic Math, SQL, Advanced Python, Numpy, Data Analysis, Statistics,Pandas, and Data Visualization. Solid foundation for data science.
 
 ### Kaggle - Certification of [Python](https://www.kaggle.com/learn/certification/talha002/python), [SQL](https://www.kaggle.com/learn/certification/talha002/intro-to-sql), [Data Visualization](https://www.kaggle.com/learn/certification/talha002/data-visualization), [Pandas](https://www.kaggle.com/learn/certification/talha002/pandas)
 
