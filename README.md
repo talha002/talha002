@@ -20,7 +20,7 @@ I'm highly motivated data scientist with 1+ years of experience in developing ma
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=RFM-Anlysis-Practice-Online-retail-II-)](https://github.com/talha002/RFM-Anlysis-Practice-Online-retail-II-) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=Rottentomatoes-anylsis)](https://github.com/talha002/Rottentomatoes-anylsis)
 
-# ☁️ My Projects about AWS:Data Engineering:
+# ☁️ My Projects about AWS - Data Engineering:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=AWS_Ingestion)](https://github.com/talha002/AWS_Ingestion) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=AWS_Storage)](https://github.com/talha002/AWS_Storage)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talha002&repo=AWS_Basics)](https://github.com/talha002/AWS_Basics)
